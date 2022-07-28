@@ -15,7 +15,12 @@ To design a front-end site that will generate either a recipe or a coktail based
 
 ### Website
 
-Click [here](https://jorgegarit.github.io/brainy-badgers-jg/) to view Brainy Recipes Webpage
+Click [here](https://headbanddandy.github.io/brainy-badger-recipes/) to view Brainy Recipes Webpage
+
+
+### Portfolio Updated
+
+Click [here] (https://headbanddandy.github.io/professional.portfolio/)
 
 ### Contributions
 
